@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@aws-amplify/ui-vue": "^4.2.8",
+    "@mdi/font": "^7.4.47",
+    "@mdi/js": "^7.4.47",
+    "@pinia/nuxt": "^0.5.1",
+    "aws-amplify": "^6.3.8",
+    "nuxt": "^3.12.3",
+    "vue": "latest",
+    "vuetify": "^3.7.0-beta.1"
+  }
+}

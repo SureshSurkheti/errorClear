@@ -1,0 +1,1 @@
+export const date_empty_rules = [(v) => !!v || "日付を選択してください。"];
